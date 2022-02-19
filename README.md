@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thomson-jayden
+- 👀 I’m interested in cloud computing, especially integrations with API's and other backend services. I'm currently Azure Certified (Developer & Fundementals) however I'm interrested in experiencing AWS and Google.
+- 🌱 I’m currently learning detailed design, authentication/authorization, and nodejs. 
+- 💞️ I’m looking to collaborate on ... nothing atm. 
+- 📫 How to reach me, LinkedIn: https://www.linkedin.com/in/jaydenthomson
