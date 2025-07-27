@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @thomson-jayden
-- 👀 I’m interested in cloud computing, especially integrations with API's and other backend services. I'm currently a Microsoft certified Azure Cloud Developer.
-- 🌱 I’m currently working on building personal integrations with the Up Banking Open API. 
+- 👀 I’m interested in cloud computing, especially integrations with API's and other backend services. 
+- 🔧 The main technologies I work with are .NET and Azure.
+- 🌱 I’m currently working on building personal integrations with the Up Banking Open API and I want to develop a data pipeline's written in python.
 - 📫 How to reach me, LinkedIn: https://www.linkedin.com/in/jaydenthomson
